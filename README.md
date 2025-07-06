@@ -78,18 +78,17 @@
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
 
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&theme=radical&border_radius=10&hide_title=true" width="400" />
-
-  <!-- GitHub Streak Stats (Your Updated Link) -->
-  <img src="https://streak-stats.demolab.com?user=Sinchana587&theme=radical&hide_border=true" width="400" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=radical&hide_border=true&border_radius=10" width="400" />
+  <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=Sinchana587&theme=chartreuse-dark&count_private=true" alt="Sinchana587" />
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="Sinchana587" />
+  
+  <br/>
+  
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=donut&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&count_private=true" alt="Sinchana587" />
 
 </div>
+
 
 ---
