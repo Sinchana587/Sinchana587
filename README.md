@@ -1,6 +1,6 @@
 # Hi 👋! I am Sinchana H
 
-🎓 Computer Science Engineering student at PES University, passionate about cybersecurity and machine learning.
+🎓 Computer Science Engineering student at PES University
 
 ---
 
@@ -33,9 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sinchana587&theme=radical" />
-</p>
 
 ---
 
