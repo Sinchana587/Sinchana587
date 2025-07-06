@@ -80,12 +80,14 @@
 
 ## 📊 GitHub Stats
 
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchanasn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sinchanasn&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanasn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
-</p>
+<!-- GitHub Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sinchana587&theme=tokyonight" alt="GitHub Streak" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 
 
