@@ -80,17 +80,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" width="400" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sinchana587&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400" />
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&theme=radical&border_radius=10&hide_title=true" width="400" />
+
+  <!-- GitHub Streak Stats (Your Updated Link) -->
+  <img src="https://streak-stats.demolab.com?user=Sinchana587&theme=radical&hide_border=true" width="400" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="400" />
-  
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=radical&hide_border=true&border_radius=10" width="400" />
 
+</div>
 
 ---
