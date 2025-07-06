@@ -77,18 +77,20 @@
 
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
+<div align="center">
+  
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true" width="400" />
 
-<!-- GitHub Profile Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sinchana587&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sinchana587&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sinchana587&theme=tokyonight" alt="GitHub Streak" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=tokyonight" alt="Top Languages" />
-
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana587&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="400" />
+  
+</div>
 
 
 ---
