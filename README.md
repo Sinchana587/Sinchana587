@@ -2,9 +2,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=I'm+Sinchana" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=450&lines=I'm+Sinchana" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <img src="https://www.gifs.cc/line3.gif" width="1920" height="5"/>
 
