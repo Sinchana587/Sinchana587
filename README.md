@@ -17,6 +17,8 @@
 - 🚀 Exploring **new domains** in Tech & Security
 - 💬 Ask me about anything related to **coding, cybersecurity, or AI**
 - 📫 Reach me: **[sinchanasinchu2062004@gmail.com](mailto:sinchanasinchu2062004@gmail.com)**
+- 🚀 Check out my portfolio here: [sinchana-portfolio](https://sinchana-portfolio-66wu.vercel.app/)
+
 
 ---
 
